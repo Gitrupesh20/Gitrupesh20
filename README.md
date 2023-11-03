@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Rupesh Sharma, a student passionate about coding. 
+
+- 🌱 I'm currently learning..
+
 
 <!--
 **Gitrupesh20/Gitrupesh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
