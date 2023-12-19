@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<h1>I'm Rupesh Sharma, and I am passionate about creating a virtual world inside a computer.</h1>
+ I'm Rupesh Sharma, and I am passionate about creating a virtual world inside a computer.
 
 - 🌱 I'm currently learning..
 
