@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning..
 
-
+![Visitor Count](https://profile-counter.glitch.me/{Gitrupesh20}/count.svg)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gitrupesh20.Gitrupesh20)](https://github.com/Gitrupesh20)
 
