@@ -7,8 +7,7 @@
 
 
 
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gitrupesh20.Gitrupesh20)](https://github.com/Gitrupesh20/Gitrupesh20)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGitrupesh20&countColor=%23263759)
 
 <!--
 **Gitrupesh20/Gitrupesh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
