@@ -4,9 +4,9 @@
 
 - 🌱 I'm currently learning..
 
-![Visitor Count](https://profile-counter.glitch.me/{Gitrupesh20}/count.svg)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gitrupesh20.Gitrupesh20)](https://github.com/Gitrupesh20)
+
+
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGitrupesh20&countColor=%23263759)
 
